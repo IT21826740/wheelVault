@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WheelVault</string>
+    <string name="signUp">Sign Up</string>
+    <string name="userName">Enter name :</string>
+    <string name="EUserName">Enter user name </string>
+    <string name="emailId">Enter your Email :</string>
+    <string name="EEmail">abc@gmail.com</string>
+    <string name="Password">Passward :</string>
+    <string name="EPassword">******</string>
+    <string name="ConfirmPwd">Confirm Password :</string>
+    <string name="EConfirmPswd">******</string>
+    <string name="SignupBtn">Sign Up</string>
+    <string name="textAcc">Already have an account ? </string>
+    <string name="loginBtn">Login</string>
+
+    <string name="LoginTitle">Login</string>
+    <string name="LUserName">User name :</string>
+    <string name="ELusername">Enter User Name </string>
+    <string name="LPwd">Password :</string>
+    <string name="ELpwd">******</string>
+    <string name="LBtn">Login</string>
+    <string name="pageTxt">New to the app ?</string>
+    <string name="LsignUpBtn">Sign up</string>
+
+    <string name="textView"> Menu</string>
+    <string name="AddBtn">Add</string>
+    <string name="MenuBtn">Main Menu</string>
+    <string name="ProfileBtn">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
