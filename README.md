@@ -26,5 +26,5 @@ Efficiently manage repairs with a seamless system that allows for updates and mo
 ![7](https://github.com/IT21826740/wheelVault/assets/111214065/be69f6f0-80f0-453e-8d80-70d1d25179b4)
 
 
-Feedback
+## Feedback
 We value your feedback! If you have any suggestions or encounter issues, please submit an issue.
