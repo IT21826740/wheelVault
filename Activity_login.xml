@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="100dp"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:textAlignment="center"
+    tools:context=".Login">
+
+    <TextView
+        android:id="@+id/loginTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_marginTop="56dp"
+        android:fontFamily="@font/abril_fatface"
+        android:text="@string/LoginTitle"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/UserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="56dp"
+        android:text="@string/LUserName"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/EUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="56dp"
+        android:ems="10"
+        android:hint="@string/EUserName"
+        android:inputType="text"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/Pswd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="56dp"
+        android:text="@string/LPwd"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/ELpwd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="56dp"
+        android:ems="10"
+        android:hint="@string/ELpwd"
+        android:inputType="textPassword"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="56dp"
+        android:backgroundTint="@color/Title"
+        android:text="@string/LBtn"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/loginText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="86dp"
+        android:text="@string/pageTxt"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/signUpBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="56dp"
+        android:backgroundTint="@color/Title"
+        android:text="@string/LsignUpBtn"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+</LinearLayout>
+
