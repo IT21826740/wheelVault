@@ -16,7 +16,15 @@ Access comprehensive details for each bike part, including name, description, an
 3. Repair Management
 Efficiently manage repairs with a seamless system that allows for updates and modifications. WheelVault simplifies the process of keeping your bike in top condition, ensuring you're always ready for your next adventure.
 
-## screenshots
+## UI
+![1](https://github.com/IT21826740/wheelVault/assets/111214065/0a51a154-c16d-4eac-8c31-e1bd3e57ee17)
+![2](https://github.com/IT21826740/wheelVault/assets/111214065/2c2ddd9c-ceb7-4fbb-bdcf-311473f7cff4)
+![3](https://github.com/IT21826740/wheelVault/assets/111214065/7aa53798-b399-44ab-8452-2e4e576a9651)
+![4](https://github.com/IT21826740/wheelVault/assets/111214065/4ebc9b9f-ba5f-4419-8d8e-d2f8c411d09c)
+![5](https://github.com/IT21826740/wheelVault/assets/111214065/e5863d80-6cbc-4c72-a4b4-9e0ed1ca8b3b)
+![6](https://github.com/IT21826740/wheelVault/assets/111214065/71f92480-64d9-4fb3-a772-8c34289e1c4b)
+![7](https://github.com/IT21826740/wheelVault/assets/111214065/be69f6f0-80f0-453e-8d80-70d1d25179b4)
+
 
 Feedback
 We value your feedback! If you have any suggestions or encounter issues, please submit an issue.
