@@ -28,3 +28,7 @@ Efficiently manage repairs with a seamless system that allows for updates and mo
 
 ## Feedback
 We value your feedback! If you have any suggestions or encounter issues, please submit an issue.
+
+
+2YR 2SEM
+SLIIT
