@@ -1,6 +1,6 @@
-# wheelVault
+# WheelVault: Elevate Your Cycling Experience with Kotlin, Fragments, and Room Database
 
-WheelVault: Elevate Your Cycling Experience
+
 Welcome to WheelVault – your ultimate companion for streamlining and enhancing every aspect of your cycling escapades. Tailored for bike enthusiasts, WheelVault is a robust mobile application designed to simplify the cataloging, tracking, and management of your two-wheeled adventures. Whether you're meticulously documenting bike parts or orchestrating a repair management system, WheelVault empowers you to elevate your cycling journey. Immerse yourself in the world of organized exploration and ride enhancement with WheelVault – where every detail takes center stage.
 
 ## Overview
