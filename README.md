@@ -1,10 +1,10 @@
 # WheelVault: Elevate Your Cycling Experience with Kotlin, Fragments, and Room Database
 
 
-Welcome to WheelVault – your ultimate companion for streamlining and enhancing every aspect of your cycling escapades. Tailored for bike enthusiasts, WheelVault is a robust mobile application designed to simplify the cataloging, tracking, and management of your two-wheeled adventures. Whether you're meticulously documenting bike parts or orchestrating a repair management system, WheelVault empowers you to elevate your cycling journey. Immerse yourself in the world of organized exploration and ride enhancement with WheelVault – where every detail takes center stage.
+     Welcome to WheelVault – your ultimate companion for streamlining and enhancing every aspect of your cycling escapades. Tailored for bike enthusiasts, WheelVault is a robust mobile application designed to simplify the cataloging, tracking, and management of your two-wheeled adventures. Whether you're meticulously documenting bike parts or orchestrating a repair management system, WheelVault empowers you to elevate your cycling journey. Immerse yourself in the world of organized exploration and ride enhancement with WheelVault – where every detail takes center stage.
 
 ## Overview
-In conclusion, "WheelVault" is a user-centric biking app that prioritizes simplicity, functionality, and adaptability. The app's design is a result of thoughtful consideration of user feedback, featuring an intuitive interface and continuous iterative improvements. Real-time part catalog management enhances the user experience, while customization options accommodate a variety of preferences and biking styles.
+     In conclusion, "WheelVault" is a user-centric biking app that prioritizes simplicity, functionality, and adaptability. The app's design is a result of thoughtful consideration of user feedback, featuring an intuitive interface and continuous iterative improvements. Real-time part catalog management enhances the user experience, while customization options accommodate a variety of preferences and biking styles.
 
 ## Key Features
 1. Catalog Exploration
